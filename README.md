@@ -1,5 +1,6 @@
-# Education-Materials
-Certainly, I can provide you with education materials on a wide range of topics. However, it would be helpful if you could specify the subject or topic you are interested in so that I can provide more targeted resources. Please let me know what you're looking for, such as:
+# Study-Materials
+
+ Please let me know what you're looking for, such as:
 
 1. **Programming Languages**: If you want to learn programming, specify the language (e.g., Python, Java, JavaScript) or topic (e.g., web development, machine learning).
 
